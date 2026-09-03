@@ -4,7 +4,7 @@
 
 Pos Nol adalah aplikasi perencana pendakian gunung untuk jalur-jalur di Indonesia. Dibangun dari tracklog GPX nyata (bukan data karangan), dengan fokus pada verifikasi data — jarak, elevasi, dan sumber air — sebelum dipakai untuk perencanaan yang menyangkut keselamatan.
 
-🔗 **Coba aplikasinya:** [posnol-app.streamlit.app](https://posnol-app-vpjx44awueyb9rkive4gea.streamlit.app/)
+🔗 **Coba aplikasinya:** https://posnol-app-vpjx44awueyb9rkive4gea.streamlit.app/
 
 ---
 
